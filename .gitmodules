@@ -1,0 +1,3 @@
+[submodule "foodtrans.auth"]
+	path = foodtrans.auth
+	url = https://github.com/pankunik/foodtrans.auth/tree/master
