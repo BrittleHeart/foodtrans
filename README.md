@@ -2,7 +2,7 @@
 TODO
 
 ## What is that repo?
-FoodTrans's repo is a main repository for managing mikroservices:
+FoodTrans's repo is a main repository for managing microservices:
 So, that's go as follows:
 
 If new modues are added, we're implementing changes to the file **<root-dir>/.gitmodules**,
