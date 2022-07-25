@@ -20,6 +20,15 @@ Simple enough:
 	url = <repo-url>
 ```
 
+or, if you rather prefer to use bash
+
+```bash
+$ git submodule add <repo-url>
+$ git add .
+$ git commit -m "Added Submodule 'submodule-name'"
+$ git push origin <main-repo-url>
+```
+
 Create new pr, pray for merge 😎
 
 ## Currently planned modules
