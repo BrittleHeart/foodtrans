@@ -1,3 +1,6 @@
 [submodule "foodtrans.auth"]
 	path = foodtrans.auth
 	url = https://github.com/pankunik/foodtrans.auth
+[submodule "foodtrans.filesystem"]
+	path = foodtrans.filesystem
+	url = https://github.com/BrittleHeart/foodtrans.filesystem.git
